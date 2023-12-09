@@ -147,6 +147,7 @@ fieldset {
 }
 
 .button {
+  height: 34px;
   color: #fff;
   background-color: transparent;
   border: 1px solid currentColor;
@@ -158,7 +159,6 @@ fieldset {
   font-style: normal;
   font-weight: 700;
   line-height: normal;
-  height: 34px;
 }
 
 .search-form__submit-button {
